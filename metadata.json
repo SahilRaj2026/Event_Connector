@@ -1,0 +1,6 @@
+{
+  "name": "Staged - Event Equipment & Vendor Marketplace",
+  "description": "Two-sided event marketplace connecting event organizers with audio, lighting, stage, and decor vendors. Rent gear by the hour, day, or weekend with transparent rates and portfolio showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
